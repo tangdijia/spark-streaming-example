@@ -24,4 +24,4 @@ hs_err_pid*
 .idea/
 example_01/
 *.iml
-eg-01/target/
+example-01/target/
