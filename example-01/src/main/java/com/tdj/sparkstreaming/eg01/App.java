@@ -1,4 +1,4 @@
-package com.tdj.sparkstreaming;
+package com.tdj.sparkstreaming.eg01;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.function.FlatMapFunction;
@@ -15,7 +15,7 @@ import scala.Tuple2;
 import java.util.Arrays;
 import java.util.Iterator;
 
-public class E01App {
+public class App {
 
     private static String appName = "spark.streaming.demo";
     private static String master = "local[*]";
